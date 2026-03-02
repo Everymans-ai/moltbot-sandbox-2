@@ -102,7 +102,7 @@
     "WORKER_URL": "https://moltbot-sandbox-2.gpolzer.workers.dev",
     "CF_ACCOUNT_ID": "9fc2b75fcb1c3dc1de6dcafba4222425",
     "DEBUG_ROUTES": "true",
-    "SANDBOX_SLEEP_AFTER": "10m"
+    "SANDBOX_SLEEP_AFTER": "10m",
     "GATEWAY_CONTROLUI_DANGEROUSLYALLOWHOSTHEADERORIGINFALLBACK": "true"
   }
 }
